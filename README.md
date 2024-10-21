@@ -28,7 +28,17 @@ You can find the program and submit bug reports [here](https://immunefi.com/boun
 
 ## Contracts
 
-### V1.0.1 (Current):
+### Arbitrum
+
+### v1.0.1 (Current):
+|  Contract  |              Address 
+|:-----------|:-----------------------------------------------------------------------------------------------------------------------|
+|  Pipeline  | [0xb1bE000644bD25996b0d9C2F7a6D6BA3954c91B0](https://arbiscan.io/address/0xb1bE000644bD25996b0d9C2F7a6D6BA3954c91B0)  |
+|  Depot     | [0xdeb0f082ed3b0efe9257aea9f2e6e974aa4120c3](https://arbiscan.io/address/0xdeb0f082ed3b0efe9257aea9f2e6e974aa4120c3)  |
+
+### Ethereum Mainnet
+
+### v1.0.1 (Current):
 |  Contract  |              Address 
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------|
 |  Pipeline  | [0xb1bE0000C6B3C62749b5F0c92480146452D15423](https://etherscan.io/address/0xb1bE0000C6B3C62749b5F0c92480146452D15423)  |
@@ -39,7 +49,7 @@ You can find the program and submit bug reports [here](https://immunefi.com/boun
 - Add `version` function to Depot and Pipeline.
 - Update `transferDeposit(s)` to Depot to account for BIP-36.
 
-### V1.0.0
+### v1.0.0
 |  Contract  |              Address 
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------|
 |  Pipeline  | [0xb1bE0000bFdcDDc92A8290202830C4Ef689dCeaa](https://etherscan.io/address/0xb1bE0000bFdcDDc92A8290202830C4Ef689dCeaa)  |
